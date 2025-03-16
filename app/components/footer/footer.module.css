@@ -1,0 +1,23 @@
+.footerContainer{
+    background-color: #da251c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color: white;
+    font-size: 12px;
+    padding: 20px;
+    display: flex;
+}
+
+.imagem{
+    margin: 0.5rem;
+}
+
+.logo{
+    height: 50px;
+    width: 140px;
+}
